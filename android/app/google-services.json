@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534591472036",
+    "project_id": "aiva-app-f9211",
+    "storage_bucket": "aiva-app-f9211.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534591472036:android:a54fbe82b1530bd5c90131",
+        "android_client_info": {
+          "package_name": "com.example.aiva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD45f0lxjVlx8CG6TYW4qrZJWjkPxm2vOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
