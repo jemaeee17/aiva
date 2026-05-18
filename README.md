@@ -1,17 +1,27 @@
-# aiva
+# Aiva – Lesson Plan Generator for Teachers
 
-A new Flutter project.
+Aiva is a Flutter-based mobile application designed to help teachers generate structured lesson plans efficiently. The application aims to simplify lesson planning workflows through automated content generation and user-friendly interfaces.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Dynamic lesson plan input forms
+- Automated lesson content generation
+- Responsive and intuitive mobile UI
+- Organized lesson management
+- Efficient workflow for educators
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Supabase 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Status
+
+Ongoing Development
+
+## Developer
+
+Jemae Bandiola
+
+GitHub: github.com/jemaeee17
